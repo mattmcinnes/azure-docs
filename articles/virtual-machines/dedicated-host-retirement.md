@@ -7,7 +7,7 @@ ms.reviewer: mattmcinnes
 ms.service: virtual-machines
 ms.subservice: dedicated-hosts
 ms.topic: conceptual
-ms.date: 3/15/2021
+ms.date: 10/24/2022
 ---
 
 # Azure Dedicated Host SKU Retirement

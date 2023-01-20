@@ -6,9 +6,9 @@ ms.subservice: gallery
 ms.collection: linux
 ms.topic: how-to
 ms.workload: infrastructure
-ms.date: 06/21/2021
+ms.date: 01/20/2023
 author: sandeepraichura
-ms.author: saraic
+ms.author: mattmcinnes
 ms.reviewer: cynthn
 #Customer intent: As an IT administrator, I want to learn about how to create shared VM images to minimize the number of post-deployment configuration tasks.
 ---

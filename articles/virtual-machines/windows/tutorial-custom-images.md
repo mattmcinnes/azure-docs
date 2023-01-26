@@ -6,7 +6,7 @@ ms.service: virtual-machines
 ms.subservice: gallery
 ms.topic: tutorial
 ms.workload: infrastructure
-ms.date: 05/01/2020
+ms.date: 01/26/2023
 ms.author: cynthn
 ms.custom: mvc, devx-track-azurepowershell
 

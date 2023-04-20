@@ -4,9 +4,10 @@ description: Azure CLI sample for moving an Azure Marketplace Virtual Machine to
 author: cynthn
 ms.author: cynthn
 manager: 
-ms.date: 01/29/2021
+ms.date: 04/20/2023
 ms.topic: sample
 ms.service: virtual-machines
+ms.reviewer: mattmcinnes
 ms.devlang: azurecli 
 ms.custom: devx-track-azurecli
 ---

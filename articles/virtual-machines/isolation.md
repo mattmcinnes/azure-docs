@@ -5,9 +5,9 @@ author: styli365
 ms.service: virtual-machines
 ms.topic: conceptual
 ms.workload: infrastructure-services
-ms.date: 11/05/2020
+ms.date: 04/20/2023
 ms.author: sttsinar
-ms.reviewer: ayshak
+ms.reviewer: ayshak, mattmcinnes
 ---
 
 # Virtual machine isolation in Azure
